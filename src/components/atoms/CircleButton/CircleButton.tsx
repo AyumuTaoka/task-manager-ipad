@@ -60,6 +60,8 @@ const Circle = styled.div<CircleProps>`
 `;
 
 const TextWrap = styled.div<TextWrapProps>`
+  font-size: 16px;
+  font-weight: 400;
   position: absolute;
   top: 50%;
   left: 50%;
