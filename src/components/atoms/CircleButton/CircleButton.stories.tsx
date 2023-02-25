@@ -19,6 +19,6 @@ export const Default = Template.bind({});
 Default.args = {
   canClick: true,
   color: "Green",
-  label: "終了",
+  label: "一時停止",
   onClick: () => console.log("clicked"),
 };

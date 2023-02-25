@@ -46,8 +46,8 @@ type TextWrapProps = {
 
 const Circle = styled.div<CircleProps>`
   display: flex;
-  width: 80px;
-  height: 80px;
+  width: 130px;
+  height: 130px;
   border-radius: 50%;
   position: relative;
   cursor: pointer;
